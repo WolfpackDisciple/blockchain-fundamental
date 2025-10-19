@@ -102,14 +102,14 @@ git clone <repository-url>
 cd blockchain-fundamental
 
 # Run levels
-cd blockchain-level-1 && cargo run && cd ..
-cd blockchain-level-2 && cargo run && cd ..
-cd blockchain-level-3 && cargo run && cd ..
-cd blockchain-level-4 && cargo run && cd ..
+cd blockchain-level-1 && cargo run 
+cd blockchain-level-2 && cargo run
+cd blockchain-level-3 && cargo run 
+cd blockchain-level-4 && cargo run 
 
 # Testing
-cd blockchain-level-3 && cargo test && cd ..
-cd blockchain-level-4 && cargo test && cd ..
+cd blockchain-level-3 && cargo test 
+cd blockchain-level-4 && cargo test 
 ```
 
 ## 📋 Requirements
