@@ -1,4 +1,4 @@
-```markdown
+
 # 🧱 Blockchain Fundamentals Learning Path
 
 [![Rust](https://img.shields.io/badge/Rust-1.70%2B-orange?logo=rust)](https://www.rust-lang.org/)
@@ -28,7 +28,7 @@ A series of 4 independent projects, each representing a level of blockchain unde
 
 ## 📁 Project Structure
 
-```
+```markdown
 blockchain-fundamental/
 ├── blockchain-level-1/     # Simple blockchain chain
 │   ├── src/main.rs
